@@ -28,6 +28,12 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Monitor success metrics identified in the Project One-pager
 - Use dashboards for key signals (errors, latency, usage)
 
+## Cross-functional reviews
+- **Design review (UX + Dev + QA):** validate implementation fidelity and usability edge cases before moving to Done.
+- **Metric review (Data Analyst + PdM + PM):** validate instrumentation quality and trend movement against success metrics.
+- **Feedback loop review (Customer Success + PdM + PM):** triage customer-reported issues/themes and confirm ownership/escalation path.
+- Reuse the [Role Handoff Checklist Template](./octoacme-role-handoff-checklist.md) to keep each review action-oriented and traceable.
+
 ## Blocker Escalation
 - Level 1: Team-level triage in daily standup
 - Level 2: PM escalates to Product Lead and dependent teams

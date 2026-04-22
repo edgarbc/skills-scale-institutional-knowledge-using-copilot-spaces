@@ -17,3 +17,5 @@ Quality is continuous from development through release and learning loops. OctoA
 - [Release & Deployment Guide](./octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](./octoacme-roles-and-personas.md)
+- [Cross-Functional RACI and Hand-offs](./octoacme-raci-and-handoffs.md)
+- [Role Handoff Checklist Template](./octoacme-role-handoff-checklist.md)
