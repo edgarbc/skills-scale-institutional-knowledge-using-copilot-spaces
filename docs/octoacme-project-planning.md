@@ -15,6 +15,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Confirm cross-functional ownership (UX, Data Analyst, Customer Success Manager) and hand-off points
 
 ## Backlog Item Template
 - Title:
@@ -34,6 +35,14 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Capture in Risk Register:
   - ID, Description, Impact, Probability, Owner, Mitigation
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
+
+## Cross-functional ownership guidance
+- Involve **UX Designer** early for workflow complexity, usability risk, and acceptance-criteria clarity.
+- Include **Data Analyst** when success metrics, instrumentation, or dashboard readiness affect scope.
+- Include **Customer Success Manager** for rollout readiness, customer-impact triage, and escalation planning.
+- Define explicit owner + reviewer for each handoff using:
+  - [Cross-Functional RACI and Hand-offs](./octoacme-raci-and-handoffs.md)
+  - [Role Handoff Checklist Template](./octoacme-role-handoff-checklist.md)
 
 ## Planning Checklist
 - [ ] Project kickoff held
